@@ -1,0 +1,34 @@
+{
+	"AchievementIDs":[
+		{
+			"InternalID":"HighScore25",
+			"AppleID":"",
+			"GoogleID":"CgkI4OuQ2tkaEAIQBA"
+		},
+		{
+			"InternalID":"HighScore50",
+			"AppleID":"",
+			"GoogleID":"CgkI4OuQ2tkaEAIQBQ"
+		},
+		{
+			"InternalID":"HighScore100",
+			"AppleID":"",
+			"GoogleID":"CgkI4OuQ2tkaEAIQBg"
+		}
+	],
+	"LeaderboardIDs":[
+		{
+			"InternalID":"highScore",
+			"AppleID":"",
+			"GoogleID":"CgkI4OuQ2tkaEAIQAw"
+		}
+	],
+	"CloudVariables":[],
+	"AppleSupported":false,
+	"GoogleSupported":true,
+	"GoogleAppID":"917432972768",
+	"GoogleSetupRun":true,
+	"DebugModeEnabled":false,
+	"Version":"2.7.5",
+	"SettingsLocation":"0"
+}
